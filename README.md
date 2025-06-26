@@ -1,6 +1,6 @@
 # Distributed Order Processing System
 
-> **A microservices-based system for asynchronous order handling using Node.js, Go, MySQL, Redis, and gRPC.**
+**A microservices-based system for asynchronous order handling using Node.js, Go, MySQL, Redis, and gRPC.**
 
 ---
 
@@ -71,6 +71,14 @@ You should see:
 
 * REST API on [http://localhost:3000](http://localhost:3000)
 * gRPC running on port `50051`
+
+---
+
+## Output Screenshots
+
+![Create Order](imgs/createOrder.png.png)
+![Fetch All Orders](imgs/fetchOrder.png.png)
+![Output Logs](imgs/outputLog.png.png)
 
 ---
 
