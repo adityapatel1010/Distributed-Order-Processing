@@ -72,8 +72,13 @@ You should see:
 
 ## Output Screenshots
 
-![Create Order](./imgs/createOrder.png)
+### Order Created
+<img src="./imgs/createOrder.png" alt="Order Created" width="500"/>
+
+### Fetch Orders
 ![Fetch All Orders](./imgs/fetchOrder.png)
+
+### Output Logs
 ![Output Logs](./imgs/outputLog.png)
 
 ---
