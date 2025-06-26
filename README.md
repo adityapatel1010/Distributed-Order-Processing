@@ -72,9 +72,9 @@ You should see:
 
 ## Output Screenshots
 
-![Create Order](imgs/createOrder.png.png)
-![Fetch All Orders](imgs/fetchOrder.png.png)
-![Output Logs](imgs/outputLog.png.png)
+![Create Order](./imgs/createOrder.png.png)
+![Fetch All Orders](./imgs/fetchOrder.png.png)
+![Output Logs](./imgs/outputLog.png.png)
 
 ---
 
