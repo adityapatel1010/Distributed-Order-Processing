@@ -72,15 +72,9 @@ You should see:
 
 ## Output Screenshots
 
-<<<<<<< HEAD
 ![Create Order](./imgs/createOrder.png)
 ![Fetch All Orders](./imgs/fetchOrder.png)
 ![Output Logs](./imgs/outputLog.png)
-=======
-![Create Order](./imgs/createOrder.png.png)
-![Fetch All Orders](./imgs/fetchOrder.png.png)
-![Output Logs](./imgs/outputLog.png.png)
->>>>>>> acbffd684543b62d71f316fae01a979109d70827
 
 ---
 
