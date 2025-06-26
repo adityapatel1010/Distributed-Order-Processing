@@ -1,9 +1,5 @@
 # Distributed Order Processing System
 
-**A microservices-based system for asynchronous order handling using Node.js, Go, MySQL, Redis, and gRPC.**
-
----
-
 ## Overview
 
 This project simulates an **e-commerce-style distributed system** that decouples order creation, processing, and status management. Using Redis as a queue, orders are processed asynchronously by a Go service, with inter-service communication via gRPC to ensure scalable, event-driven architecture.
@@ -76,9 +72,15 @@ You should see:
 
 ## Output Screenshots
 
+<<<<<<< HEAD
 ![Create Order](./imgs/createOrder.png)
 ![Fetch All Orders](./imgs/fetchOrder.png)
 ![Output Logs](./imgs/outputLog.png)
+=======
+![Create Order](./imgs/createOrder.png.png)
+![Fetch All Orders](./imgs/fetchOrder.png.png)
+![Output Logs](./imgs/outputLog.png.png)
+>>>>>>> acbffd684543b62d71f316fae01a979109d70827
 
 ---
 
