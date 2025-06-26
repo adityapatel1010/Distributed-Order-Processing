@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+service OrderService {
+  rpc UpdateOrderStatus (OrderStatusRequest) returns (OrderStatusResponse);
+}
+
+message OrderStatusRequest {
+  int32 id = 1;
+  string status = 2;
+}
+
+message OrderStatusResponse {
+  int32 id = 1;
+  string status = 2;
+}
